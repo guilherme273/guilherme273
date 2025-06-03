@@ -62,7 +62,7 @@ Com foco em desenvolvimento full stack, atuo com React no front-end e Node.js no
     title="NestJS"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg"
+    src="https://nestjs.com/img/logo-small.svg"
 />
 <img 
     align="left" 
